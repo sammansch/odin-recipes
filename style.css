@@ -1,0 +1,49 @@
+.container {
+  position: relative;
+}
+.tagline {
+  position: absolute;
+  top: 69px;
+  left: 65px;
+  font-size: 30px;
+  color: red;
+  font-family: "Roboto", Helvetica, sans-serif;
+}
+
+.eat {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  display: block;
+  margin-left: 40%;
+  margin-right: 10%;
+}
+.recipe-links {
+  position: absolute;
+  top: 150px;
+  left: 105px;
+  height: 350px;
+  width: 250px;
+  border: 2px solid black;
+}
+
+ul {
+  margin-top: 69px;
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 55px;
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: right;
+}
