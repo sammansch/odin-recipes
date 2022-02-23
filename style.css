@@ -4,7 +4,7 @@
 .tagline {
   position: absolute;
   top: 69px;
-  left: 65px;
+  left: 150px;
   font-size: 30px;
   color: red;
   font-family: "Roboto", Helvetica, sans-serif;
@@ -12,6 +12,7 @@
 
 .eat {
   font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
 }
 
 img {
@@ -22,7 +23,7 @@ img {
 .recipe-links {
   position: absolute;
   top: 150px;
-  left: 105px;
+  left: 200px;
   height: 350px;
   width: 250px;
   border: 2px solid black;
@@ -43,7 +44,8 @@ a {
 
 footer {
   margin-top: 55px;
-  font-size: 12px;
+  margin-right: 69px;
+  font-size: 16px;
   font-family: "Times New Roman", Times, serif;
   text-align: right;
 }
